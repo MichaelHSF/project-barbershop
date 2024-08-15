@@ -1,1 +1,1 @@
-# project-barbershop
+Este projeto foi desenvolvido com base no projeto criado durante a Full Stack Week, pelo Felipe Rocha.
